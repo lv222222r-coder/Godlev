@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-import telebot
-from telebot import types
-import time
-import random
-
-# ←←← ТВОЙ ТОКЕН УЖЕ ВСТАВЛЕН ←←←
-bot = telebot.TeleBot("8381562671:AAGCcITE-NJ-5c83nApvkDwnZGzUKJNXkoA", parse_mode="Markdown")
 
 # Твой ID (чтобы только ты видел некоторые команды)
 ADMIN_ID = 123456789  # ←←← замени на свой Telegram ID
